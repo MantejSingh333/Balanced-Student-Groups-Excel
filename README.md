@@ -1,6 +1,6 @@
 # Balanced Student Groups (Excel)
 
-Excel-based project creating balanced student groups based on performance and communication metrics to improve collaboration dynamics.
+Developed an Excel-based analysis to group students using performance metrics and communication frequency, creating balanced teams that improve collaboration while anonymizing sensitive data.
 
 ## Overview
 Aggregated individual assignment scores (M1, M2, M3) into a total performance metric and combined it with qualitative communication data (“Often” vs. “Not Often”). Distributed students across groups to ensure:
