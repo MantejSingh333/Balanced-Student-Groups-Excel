@@ -1,4 +1,4 @@
-# Balanced Group Assignment Using Excel
+# Balanced Student Groups (Excel)
 
 Excel-based project creating balanced student groups based on performance and communication metrics to improve collaboration dynamics.
 
